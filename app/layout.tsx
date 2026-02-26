@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const dmSans = DM_Sans({ subsets: ['latin'], variable: '--font-dm-sans' })
 
 export const metadata: Metadata = {
-  title: 'ScholarPath - Find Your Perfect Scholarship',
+  title: 'Scholar Scope - Find Your Perfect Scholarship',
   description: 'Discover thousands of scholarships tailored to your profile. Search by country, degree level, field of study, and more.',
   icons: {
     icon: [
